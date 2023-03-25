@@ -1,2 +1,1 @@
-# Nuxt 3 Minimal Starter
-com configuração de alias, tailwindcss, e sass instalado.
+Template Started, com tailwindcss, Sass, e umas configurações no nuxt.config. sobre html, fontes, metatags.
