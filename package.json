@@ -11,10 +11,12 @@
     "@types/node": "^18.13.0",
     "autoprefixer": "^10.4.13",
     "nuxt": "^3.1.2",
+    "nuxt-icon": "^0.3.3",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.6"
   },
   "dependencies": {
+    "@nuxt/image-edge": "^1.0.0-27991759.1a5eea1",
     "sass": "^1.60.0"
   }
 }
